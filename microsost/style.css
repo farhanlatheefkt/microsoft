@@ -1,0 +1,71 @@
+
+
+.brand-image{
+
+    height: 23px;
+    padding-left: 40px;
+    /* padding-top: 7PX; */
+    MARGIN-TOP: 8PX;
+  
+}
+.navbar-nav cl1 {
+    width: 70p;
+}
+.navbar-toggler{
+    padding: 10px 6px;
+
+}
+.card-text{
+    
+    font-size: 16px;
+    align-items: center;
+    text-align: inherit;
+   
+}
+li ul{
+    text-align: center;
+    padding-left: 20px;
+}
+ul {
+    margin-top: 42px;
+    margin-bottom: 1rem;
+    margin-left: 43px;
+    padding-left: -25px;
+}
+li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: -15px;
+}
+
+@media screen and (max-width: 760px) {
+    .card {
+     
+      width: 53rem;
+    }
+    .slider{
+        width: 21rem;
+        align-items: center;
+        margin-left: 5px;
+
+    }
+    .card-text{
+        width: 22rem;
+        align-items: center;
+        font-size: 16px;
+
+    }
+    .slider2{
+        font-size: 0.3 rem;
+
+    }
+
+    
+}
+
+
